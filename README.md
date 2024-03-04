@@ -1,8 +1,9 @@
 <h1 align="center" style="color: #ffffff; background-color: #1a1a1a;">Hi 👋, I'm AyeshQureshi</h1>
 <h3 align="center" style="color: #dddddd; background-color: #1a1a1a;">I'm a CS student passionate about coding and innovation.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=idkayesh&label=Profile%20views&color=0e75b6&style=flat" alt="idkayesh" /> </p>
-
+<p align="left" style="background-color: #0d1117; padding: 10px;">
+  <img src="https://komarev.com/ghpvc/?username=idkayesh&label=Profile%20views&color=58a6ff&style=flat-square" alt="idkayesh" />
+</p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idkayesh&theme=dark" alt="idkayesh" /></a> </p>
 
 - 🌱 I’m currently learning **Object Oriented Programming and creating 2D games; learning SFML and OpenGL with plans to share development progress here.**
