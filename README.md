@@ -1,5 +1,4 @@
 <h1 align="center" style="color: #ffffff; background-color: #1a1a1a;">Hi 👋, I'm AyeshQureshi</h1>
-<img align="center" alt="Coding" width="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHJweWw0anM5YjJuaHloMGRtbWlja2lsNXFjdG0wZmRrMm9nNmV0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.gif">
 
 <h3 align="center" style="color: #dddddd; background-color: #1a1a1a;">I'm a CS student passionate about coding and innovation.</h3>
 
@@ -28,3 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=idkayesh&show_icons=true&locale=en&theme=dark" alt="idkayesh" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=idkayesh&theme=dark" alt="idkayesh" /></p>
+<img align="center" alt="Coding" width="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHJweWw0anM5YjJuaHloMGRtbWlja2lsNXFjdG0wZmRrMm9nNmV0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.gif">
