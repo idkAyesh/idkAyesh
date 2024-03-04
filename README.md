@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm AyeshQureshi</h1>
 <h3 align="center">I'm a CS student passionate about coding and innovation.</h3>
-(img align="right" alt="Coding" width="400" src="https://in.pinterest.com/pin/coding-animations--126663808259169690/")
+<img align="right" alt="Coding" width="400" src="https://in.pinterest.com/pin/coding-animations--126663808259169690/">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idkayesh&label=Profile%20views&color=0e75b6&style=flat" alt="idkayesh" /> </p>
