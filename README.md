@@ -4,8 +4,7 @@
 <p align="left" style="background-color: #0d1117; padding: 10px;">
   <img src="https://komarev.com/ghpvc/?username=idkayesh&label=Profile%20views&color=58a6ff&style=flat-square" alt="idkayesh" />
 </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idkayesh&theme=dark" alt="idkayesh" /></a> </p>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idkayesh&theme=darkhub" alt="idkayesh" /></a> </p>
 - 🌱 I’m currently learning **Object Oriented Programming and creating 2D games; learning SFML and OpenGL with plans to share development progress here.**
 
 - 💬 Ask me about **Game development with SFML and OpenGL. Future game projects and ideas I'm exploring**
