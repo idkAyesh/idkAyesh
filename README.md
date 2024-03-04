@@ -25,6 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=idkayesh&show_icons=true&locale=en&layout=compact&theme=dark" alt="idkayesh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=idkayesh&show_icons=true&locale=en&theme=dark" alt="idkayesh" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=idkayesh&theme=dark" alt="idkayesh" /></p>
 <img align="center" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-programmer-guy-coding-790a0bs8e8thpisg.webp">
