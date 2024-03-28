@@ -7,8 +7,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idkayesh&theme=darkhub" alt="idkayesh" /></a> </p>
 - 🌱 I’m currently learning **Object Oriented Programming and creating 2D games; learning SFML and OpenGL with plans to share development progress here.**
 
-- 💬 Ask me about **Game development with SFML and SDL. Future game projects and ideas I'm exploring**
-
 - 📫 How to reach me **m.ayesh904@gmail.com**
 
 - ⚡ Fun fact **On a scale of 'Hello World' to rockstar developer, I'm currently a kazoo soloist in the symphony of coding.**
