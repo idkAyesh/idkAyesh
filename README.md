@@ -4,7 +4,7 @@
 
 <p align="left" style="background-color: #0d1117; padding: 10px;">
 
-<p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idkayesh&theme=darkhub](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical)" alt="idkayesh" /></a> </p>
+[<p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idkayesh&theme=darkhub](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical)" alt="idkayesh" /></a> </p>](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark_lover)
 
 - 🌱 I’m currently learning **Object Oriented Programming and creating 2D games; learning SFML and OpenGL with plans to share development progress here.**
 
